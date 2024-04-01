@@ -1,0 +1,33 @@
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\bin\Debug\net8.0-windows\C# Stopwatch.exe
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\bin\Debug\net8.0-windows\C# Stopwatch.deps.json
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\bin\Debug\net8.0-windows\C# Stopwatch.runtimeconfig.json
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\bin\Debug\net8.0-windows\C# Stopwatch.dll
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\bin\Debug\net8.0-windows\C# Stopwatch.pdb
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C__Stopwatch.Stopwatch.resources
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.csproj.GenerateResource.cache
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.AssemblyInfoInputs.cache
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.AssemblyInfo.cs
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.csproj.CoreCompileInputs.cache
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.dll
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\refint\C# Stopwatch.dll
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.pdb
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.genruntimeconfig.cache
+C:\C# Practise Projects\C# Stopwatch\C# Stopwatch\obj\Debug\net8.0-windows\ref\C# Stopwatch.dll
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\bin\Debug\net8.0-windows\C# Stopwatch.exe
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\bin\Debug\net8.0-windows\C# Stopwatch.deps.json
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\bin\Debug\net8.0-windows\C# Stopwatch.runtimeconfig.json
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\bin\Debug\net8.0-windows\C# Stopwatch.dll
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\bin\Debug\net8.0-windows\C# Stopwatch.pdb
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C__Stopwatch.Stopwatch.resources
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.csproj.GenerateResource.cache
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.AssemblyInfoInputs.cache
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.AssemblyInfo.cs
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.csproj.CoreCompileInputs.cache
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.sourcelink.json
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.dll
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\refint\C# Stopwatch.dll
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.pdb
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\C# Stopwatch.genruntimeconfig.cache
+C:\C# Practise Projects\C# Stopwatch\BasicCSharpStopwatch\C# Stopwatch\obj\Debug\net8.0-windows\ref\C# Stopwatch.dll
